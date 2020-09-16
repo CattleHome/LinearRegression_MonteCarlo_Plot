@@ -1,3 +1,4 @@
+Introduction:
 This is a course project, which consists of 5 parts. The programming language is Python. This project has applied simple & multiple linear regression, Monte Carlo simulation, plotting of line/curve/scatter/bar.
 
 Part 1:
