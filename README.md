@@ -1,6 +1,6 @@
-Introduction:
+Introduction: This is a course project, which consists of 5 parts. 
 
-This is a course project, which consists of 5 parts. This project applied simple & multiple linear regression, Monte Carlo simulation, plotting of line/curve/scatter/bar.
+Contents: simple & multiple linear regression, Monte Carlo simulation, plotting of line/curve/scatter/bar.
 
 Programming language: Python
 
