@@ -1,5 +1,7 @@
 Introduction:
-This is a course project, which consists of 5 parts. The programming language is Python. This project has applied simple & multiple linear regression, Monte Carlo simulation, plotting of line/curve/scatter/bar.
+This is a course project, which consists of 5 parts. This project applied simple & multiple linear regression, Monte Carlo simulation, plotting of line/curve/scatter/bar.
+
+Programming language: Python
 
 Part 1:
 Industry_Portfolios.xlsx contains monthly returns for a portfolio of 10 industries. First, calculate mean, standard deviation and covariance matrix for the portfolio. Second, plot 2 minimum-variance frontiers without riskless asset and with riskless asset respectively. The 2 frontiers intersect at a single point which leads to the tangency portfolio with the highest Sharpe ratio.
